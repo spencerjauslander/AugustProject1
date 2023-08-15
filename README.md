@@ -1,5 +1,6 @@
 # AugustProject1
 **Global Homicide Rate Data Analysis**
+Contributors: Spencer Auslander, Paul Boerstoel, Femi Ademuwagun, Samantha Barbey, Anthony Trainor, & Sophie Barstein
 
 
 
