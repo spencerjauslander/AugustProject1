@@ -10,6 +10,9 @@ This project analyzes the global homicide trends throughout the past several dec
 
 
 **File Descriptions**
-
+Images Folder: Contains graph images from the Homicides vs Freedom Score Jupyter file. Images were used for the google slides
+Homicides Are Falling Around the World - Homicides Are Falling Around the World.csv: Excel file containing data relate to homicide rates. Dataset was read and manipulated in the Homicides vs Freedom Score Jupyter file. Dataset source: https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Homicides vs Freedom Score.ipynb: Jupyter file for analysis between Homicides and Freedom score. Manipulation of dataset into dataframe and into graphs. Code is commented for readability. Data used in google slides.
+freedom-scores.csv: Excel file containing data relate to freedom scores. Dataset was read and manipulated in the Homicides vs Freedom Score Jupyter file. Dataset source: https://www.heritage.org/index/explore
 
 
