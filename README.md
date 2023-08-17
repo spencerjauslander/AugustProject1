@@ -24,3 +24,6 @@ Homicide By Gender Analysis: Contains the notebook for the gender analysis porti
 
 *Project 1 - Homicide Data Doc.pdf*: Word document with the written analysis of the data. 
 *Project 1 - Homicide Data Slide.pdf*: Powerpoint document that presents our data.
+
+Conclusion:
+All over the world, countries face the same issues. Homicides are measured based off of sex, income, country, and years. Throughout the years of 1990-2020, there is a drastic difference between males and females. Although the numbers are substantially larger from males to females, the trend lines tend to follow the same pattern. This leads us to the question, "why?" Although we are not sure why these numbers seem to be steady with eachother, we can conclude that the data shown can provide us with the information needed to create change. These factors include but are not limited to the country in which one resides, income (lower to upper class/income), the years the crime was being committed, and the sex that is commiting these homicides. 
