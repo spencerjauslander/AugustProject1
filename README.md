@@ -20,5 +20,7 @@ Homicides Are Falling Around the World.csv: Same as the other file of the same n
 API_SE.ADT.LITR.ZS_DS2_en_csv_v2_5728795.csv: csv of literacy rates by country and year, taken from the world bank: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS 
 Images: like with the previous folder of the same name, a folder with images used in the presentation. Images taken from the literacy rate analysis notebook.
 
+Homicide By Gender Analysis: Contains the notebook for the gender analysis portion of the project and png files displaying the graphs created. Data collected from: https://genderdata.worldbank.org/indicators/vc-ihr-psrc-p5/?gender=female&geos=&view=trend
+
 *Project 1 - Homicide Data Doc.pdf*: Word document with the written analysis of the data. 
 *Project 1 - Homicide Data Slide.pdf*: Powerpoint document that presents our data.
