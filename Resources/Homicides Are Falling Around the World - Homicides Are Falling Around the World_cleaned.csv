@@ -1,0 +1,61 @@
+country,% change earliest to latest data,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,earliest figure,latest figure,source,URL
+Croatia,-0.75,3.56,2.62,2.55,2.86,2.67,2.3,1.8,1.7,1.5,1.9,1.5,1.6,1.4,1.5,1.1,1.4,1.1,1.2,1.1,0.8,0.9,3.56,0.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Bulgaria,-0.7,5.91,5.29,4.85,4.69,4.05,,,,3.2,3.2,2.6,2.4,2.3,2.3,2,2,1.7,1.9,1.5,1.6,1.8,5.91,1.8,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Netherlands,-0.69,1.94,1.36,1.33,1.12,1.29,1.1,1.3,1.2,1.2,1.2,1.1,0.8,0.9,0.9,0.9,0.9,0.9,0.9,0.7,0.7,0.6,1.94,0.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Kazakhstan,-0.69,15.36,16.71,16.67,16.58,15.74,15.5,14.5,13.1,13.2,13.7,11.7,11.1,10.5,11.4,11,8.6,8.6,7.5,6.5,5.2,4.8,15.36,4.8,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Poland,-0.68,2.22,2.27,2.1,4.87,4.75,2.2,2,1.9,1.7,1.6,1.4,1.3,1.4,1.2,1.3,1.1,1.2,1,0.8,0.7,0.7,2.22,0.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Albania,-0.66,6.69,7.97,49.87,18.61,16.14,,,,,,5,3.1,3.5,3.1,2.9,4.4,4.9,5.5,4.3,4,2.3,6.69,2.3,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+China,-0.65,,,,,,,,2,1.9,1.9,1.6,1.4,1.2,1.1,1.1,1,0.9,0.8,0.8,0.7,,2,0.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Georgia,-0.65,7.71,5.41,5.79,5,5.08,5,5.6,6.3,6.6,6.6,9,7.3,7.5,6.1,4.9,4.4,,,,2.7,,7.71,2.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Moldova,-0.65,9.1,9.29,9.32,8.46,9.12,10.3,9.8,9.6,7.6,6.6,7.1,6.3,5.3,5.7,6,6.5,7.5,5.6,4.1,3.2,,9.1,3.2,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Slovak Republic,-0.62,2.38,2.45,2.6,2.37,2.61,2.7,2.4,2.6,2.7,2.3,2,1.7,1.7,1.7,1.6,1.6,1.8,1.4,1.4,1.3,0.9,2.38,0.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Colombia,-0.62,69.67,71.79,67.18,60.08,62.29,65.7,67.9,68.3,53.4,44.6,39.5,36.8,34.8,33.2,34,32.7,34.1,31.3,32.6,27.9,26.5,69.67,26.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Belarus,-0.61,9.34,9.47,10.01,10.2,9.64,10.2,9.8,10.1,9,8.4,8.6,7.7,6.8,5.7,5,5.1,3.9,3.6,3.5,3.6,,9.34,3.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Czech Republic,-0.59,1.71,1.68,1.82,1.69,1.68,1.8,1.4,1.5,1.6,1.3,1.1,1.3,1.2,1.1,0.9,1,0.8,1,0.9,0.7,0.7,1.71,0.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Lithuania,-0.57,13.83,11.24,10.93,8.76,8.77,,,,,10.2,11.1,8.7,8.5,9.3,7.9,7,6.9,6.7,6.7,5.5,6,13.83,6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Kyrgyz Republic,-0.56,11.65,11.14,9.26,8.81,8.84,8.7,7.7,8.2,8.3,8.3,8.2,8.2,8.1,8.1,7.8,19.6,8.9,5.3,3.6,3.7,5.1,11.65,5.1,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Romania,-0.55,3.34,3.2,3.08,2.51,2.54,2.5,2.7,2.6,2.5,2.4,2.1,2.1,2,2.3,1.9,2,1.7,1.9,1.7,1.5,1.5,3.34,1.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Italy,-0.55,1.78,1.67,1.53,1.54,1.42,1.3,1.2,1.1,1.2,1.2,1,1.1,1.1,1,1,0.9,0.9,0.9,0.8,0.8,0.8,1.78,0.8,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Serbia,-0.54,,,,,,2.4,2.6,2.1,1.9,1.8,1.6,1.7,1.9,1.5,1.7,1.4,1.5,1.2,1.6,1.3,1.1,2.4,1.1,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Thailand,-0.54,7.61,7.42,7.86,8.69,8.1,8.2,7.9,7.1,9.9,6.5,7.3,7.1,6.7,6,5.6,5.5,4.9,4.9,4.3,3.9,3.5,7.61,3.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Germany,-0.53,1.72,1.68,1.54,1.21,1.24,1.2,1.1,1.2,1.1,1.1,1.1,1,0.9,0.9,1,1,0.9,0.8,0.8,0.9,0.8,1.72,0.8,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Austria,-0.52,1.03,1.24,0.83,0.97,0.75,1,0.9,0.8,0.6,0.7,0.7,0.7,0.5,0.7,0.6,0.7,0.9,0.9,0.7,0.5,0.5,1.03,0.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Indonesia,-0.5,,,,,,1,,,0.7,0.6,,,,0.6,0.5,0.4,0.6,0.6,0.6,0.5,,1,0.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Ireland,-0.5,1.19,1.15,1.04,1.03,1.01,0.1,1.3,1.3,1.1,0.7,1.2,1.4,1.8,1.1,1.2,1.1,0.9,1.2,1.1,1.1,0.6,1.19,0.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Mongolia,-0.48,,,,,,,,,13.9,13.3,15.8,13.1,11.3,8.1,8.2,8.8,9.6,7.1,7.3,7.5,7.2,13.9,7.2,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Hungary,-0.48,2.87,2.63,2.81,2.82,2.47,2,2.5,2,2.2,2.1,1.6,1.7,1.5,1.8,1.4,1.4,1.5,1.2,1.6,1.5,,2.87,1.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Morocco,-0.47,,,,,1.9,1.6,1.9,1.6,1.7,1.6,1.5,1.6,1.7,1.4,1.4,1.4,1.4,1.2,1.3,1,,1.9,1,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+South Africa,-0.47,64.92,60.39,57.11,57.74,51.21,48.5,47,46.6,42.2,39.4,38.9,39.2,37.2,36,33,30.9,29.9,30.7,31.7,33,34.3,64.92,34.3,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Slovenia,-0.46,2.24,1.93,1.82,0.71,1.26,1.8,1.4,1.8,1.1,1.4,1,0.6,1.2,0.5,0.6,0.7,0.8,0.7,0.6,0.7,1.2,2.24,1.2,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Japan,-0.45,0.54,0.49,0.54,0.57,0.54,,,,0.6,0.6,0.5,0.5,0.5,0.5,0.4,0.4,0.3,0.3,0.3,0.3,,0.54,0.3,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Australia,-0.44,1.8,1.7,1.73,1.52,1.81,1.9,1.8,1.9,1.7,1.5,1.3,1.4,1.2,1.2,1.2,1,1.1,1.1,1.1,1,1,1.8,1,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Paraguay,-0.44,,,,16.71,12.11,18.8,24.3,24.9,22.9,21.2,18.6,15.9,13.1,13.8,13.4,11.9,10.4,10.2,9.3,8.8,9.3,16.71,9.3,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Finland,-0.44,2.86,2.99,2.7,2.19,2.77,2.9,3,2.5,2,2.8,2.3,2.3,2.4,2.5,2.2,2.2,2,1.6,1.7,1.6,1.6,2.86,1.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Greece,-0.43,1.41,1.57,1.88,1.62,1.42,0.7,1.2,0.9,1.1,1,1.2,1,1.2,1.3,1.4,1.6,1.6,1.5,1.4,1,0.8,1.41,0.8,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Ecuador,-0.43,,,,,,14.5,12.9,14.6,14.6,17.7,15.4,17.1,16,18,17.9,17.7,15.5,12.5,11,8.2,,14.5,8.2,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Switzerland,-0.4,1.17,1.18,1.23,1.07,1.25,0.96,1.2,1.2,1,1.1,1,0.8,0.7,0.7,0.7,0.7,0.6,0.6,0.7,0.5,0.7,1.17,0.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+United States,-0.4,8.11,7.29,6.68,6.15,5.56,5.5,6.7,5.6,5.7,5.5,5.7,5.8,5.7,5.4,5,4.8,4.7,4.7,4.5,4.4,4.9,8.11,4.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Norway,-0.39,0.99,0.98,0.86,0.86,0.83,1.1,0.8,1,1.1,0.8,0.7,0.7,0.6,0.7,0.6,0.6,2.2,0.5,0.9,0.6,,0.99,0.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+United Kingdom,-0.39,1.47,1.32,1.43,1.45,1.47,1.7,1.8,2,1.7,1.6,1.5,1.4,1.4,1.2,1.1,1.2,1,1,0.9,0.9,,1.47,0.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+"Macedonia, FYR",-0.34,,,,2.41,1.9,2.3,2.7,3,3.4,2.4,2.2,2.2,2,1.7,1.7,2.1,1.5,1.4,1.1,1.6,,2.41,1.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Israel,-0.33,2.1,2.13,2.77,2.55,2.33,2.4,3.6,3.6,3.1,2.7,2.5,2.7,1.8,1.9,1.8,2,2,1.7,,1.5,1.4,2.1,1.4,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Spain,-0.33,1.04,1,1.17,1.31,1.22,1.4,1.4,1.3,1.4,1.2,1.2,1.1,1.1,0.9,0.9,0.9,0.8,0.8,0.7,0.7,0.7,1.04,0.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Libya,-0.32,,,,,,,,,,,3.7,,,,,3.1,,,,,2.5,3.7,2.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Puerto Rico,-0.32,23.34,23.26,19.25,17.23,15.59,18.3,19.7,20.6,20.8,21.1,20.5,19.9,19.6,21.6,24,26.3,,26.5,23.9,18.5,15.9,23.34,15.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+France,-0.31,2.31,2.02,1.65,1.64,1.62,1.8,1.8,1.9,1.6,1.6,1.6,1.4,1.6,1.6,1.3,1.3,1.4,1.2,1.2,1.2,1.6,2.31,1.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Armenia,-0.31,3.6,3.59,3.19,2.99,2.91,,,,,2.7,1.9,2.6,2.6,3.3,3.3,1.9,2.4,2.2,2,2.4,2.5,3.6,2.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Algeria,-0.3,,,,,,,,,2,1.4,0.6,0.9,0.8,0.9,0.8,0.7,0.8,1.4,1.3,1.5,1.4,2,1.4,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+India,-0.27,4.37,4.4,4.35,4.47,4.23,4.5,4.2,4.1,3.6,3.7,3.6,3.6,3.5,3.5,3.4,3.4,3.5,3.4,3.3,3.2,,4.37,3.2,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+El Salvador,-0.22,139.13,117.28,112.57,95,65.05,40.3,37.8,37.9,37.2,46.8,63.5,65.8,58.4,52.9,72.8,66,72.2,42.7,41.3,64.2,108.6,139.13,108.6,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Panama,-0.19,14.08,9.08,11.3,9.88,9.83,9.9,9.9,12.1,10.6,9.4,11,11,12.9,18.7,23,21,20.6,17.5,17.4,14.7,11.4,14.08,11.4,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Sierra Leone,-0.17,,,,,,,,,,2.3,2,1.9,2.5,3.3,2.8,2.8,3.2,1.9,,,1.9,2.3,1.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+New Zealand,-0.17,1.09,1.29,1.6,1.3,1.18,1.3,1.3,1.5,1.1,1.1,1.5,1.2,1.1,1.2,1.5,1,0.9,0.9,1,0.9,,1.09,0.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Argentina,-0.17,7.81,8.5,9.14,7.21,7.3,,,,,,,,,,,,,,,7.5,6.5,7.81,6.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Denmark,-0.13,1.15,1.31,1.67,0.92,0.98,1.1,0.97,1,1.2,0.8,1,0.5,0.7,1,0.9,0.8,0.8,0.8,0.9,1.3,1,1.15,1,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Azerbaijan,-0.11,,,,,,2.8,2.7,2.6,2.2,2.4,2.2,2.2,2,1.9,1.8,2.1,,2.2,2.3,2.5,,2.8,2.5,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Belgium,-0.1,,,,,,2.1,2.7,3.1,2.2,2.6,2.1,2.1,2,1.9,1.7,1.7,1.9,1.9,1.8,1.9,1.9,2.1,1.9,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Nepal,-0.09,,,2.53,2.8,2.64,2.7,3.5,3.5,3,3.7,3.6,2.5,3.4,3.4,3,3,2.9,2.8,2.3,2.3,,2.53,2.3,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Canada,-0.07,1.84,1.94,1.75,1.68,1.59,1.6,1.8,1.7,1.7,2,2.1,1.9,1.8,1.8,1.8,1.6,1.8,1.6,1.4,1.5,1.7,1.84,1.7,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Guatemala,-0.04,32.55,35.32,38.14,30.87,24.19,24.8,27,29.6,33.7,35,,43.6,41.9,44.6,45.1,40.5,37.7,33.5,33.5,31.2,,32.55,31.2,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Portugal,-0.04,,1.04,1.12,1.22,1.06,1.1,1,1.1,1.4,1.4,1.3,1.5,1.8,1.2,1.2,1.2,1.1,1.2,1.4,0.9,1,1.04,1,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Mexico,-0.04,16.92,15.45,14.2,14.08,12.43,10.4,9.9,9.6,9.4,8.6,9,9.4,7.8,12.2,17,21.7,22.6,21.3,18.6,16,16.3,16.92,16.3,World Bank,https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
